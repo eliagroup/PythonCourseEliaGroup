@@ -1,0 +1,6 @@
+,datetime,quarterhour,qualitystatus,netregulationvolume,marginaldecrementalprice,resolutioncode,alpha,positiveimbalanceprice,negativeimbalanceprice,systemimbalance,marginalincrementalprice
+0,2022-06-13T11:22:00+02:00,2022-06-13T11:15:00+02:00,Non-validated,377.777,70.0,PT1M,6.06,386.13,386.13,-417.509,380.07
+1,2022-06-13T11:21:00+02:00,2022-06-13T11:15:00+02:00,Non-validated,390.849,70.0,PT1M,6.95,387.02,387.02,-444.022,380.07
+2,2022-06-13T11:20:00+02:00,2022-06-13T11:15:00+02:00,Non-validated,395.12,70.0,PT1M,8.0,388.07,388.07,-473.205,380.07
+3,2022-06-13T11:19:00+02:00,2022-06-13T11:15:00+02:00,Non-validated,389.325,70.0,PT1M,8.39,388.46,388.46,-483.874,380.07
+4,2022-06-13T11:18:00+02:00,2022-06-13T11:15:00+02:00,Non-validated,380.735,70.0,PT1M,8.61,388.68,388.68,-489.533,380.07

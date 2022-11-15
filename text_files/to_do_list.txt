@@ -1,0 +1,19 @@
+A day in a life of a data scientist:
+
+08:30 - 12:00
+* Focus Phase
+	* Code review
+	* Data Cleaning
+	* Model Training
+	
+
+12:00 - 13:00 Lunch
+
+13:00 - 15:00
+* Meeting Time Series Forecasting
+* Meeting XAI Follow-up
+
+15:00 - 17:00
+* Weekly with Data Team
+* F2F with Head of Data & AI
+
